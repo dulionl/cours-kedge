@@ -1,0 +1,68 @@
+body {
+	margin: 0px ; 
+}
+
+
+#banner {
+	height: 100vh;
+	text-align: center;
+	color: #F0FFFF;
+	font-size : 20px;
+	background-image: url("horizon.jpeg");
+	padding: 200px ; 
+}
+
+.btn-outline-warning-perso {
+	padding: 30px;
+	font-size: 20px;
+	margin: 50px;
+	width: 200px; 
+	background-color: rgba(255,255,255,0.3);
+	color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+
+#logo {
+height: 50px;
+position: absolute;
+top: 10px;
+left: 10px;
+}
+
+#login {
+position: absolute;
+color: #808080;
+top: 5px;
+right: 10px;
+}
+
+#create {
+position: absolute;
+color: #808080;
+top: 25px;
+right: 10px;
+}
+
+#joinus {
+position: absolute;
+color: #808080;
+top: 30px;
+right: 10px;
+}
+
+.centered {
+	text-align: center; 
+}
+
+#footer {
+	color : #eaeaea;
+	background-color: rgb(5,5,5);
+	padding: 50px;
+	font-size: 20px; 
+
+}
+
+.logo {
+	color: #eaeaea; 
+
+}
