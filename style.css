@@ -12,12 +12,46 @@ body {
 	padding: 200px ; 
 }
 
+#bannerbuy {
+	height: 100vh;
+	text-align: center;
+	color: #F0FFFF;
+	font-size : 20px;
+	background-image: url("buy.jpeg");
+	padding: 200px ; 
+}
+
 .btn-outline-warning-perso {
 	padding: 30px;
 	font-size: 20px;
 	margin: 50px;
 	width: 200px; 
-	background-color: rgba(255,255,255,0.3);
+	background-color: rgba(255,255,255,0.3)	color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+
+.btn-outline-warning-women {
+	padding: 100px;
+	font-size: 20px;
+	margin: 50px;
+	width: 300px; 
+	background-image: url("women.jpeg");
+	background-size:cover;
+	background-position: center;
+	font-size-adjust: : #FFFFFF;
+	color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+
+
+.btn-outline-warning-men {
+	padding: 100px;
+	font-size: 20px;
+	margin: 50px;
+	width: 300px; 
+	background-image: url("men.jpeg") ;
+	background-size:cover;
+	background-position: center;
 	color: #FFFFFF;
 	border-color: #FFFFFF;
 }
@@ -66,3 +100,29 @@ right: 10px;
 	color: #eaeaea; 
 
 }
+
+
+
+#bannergive {
+	height: 100vh;
+	text-align: center;
+	color: #F0FFFF;
+	font-size : 20px;
+	background-image: url("together.jpeg");
+	padding: 200px ; 
+}
+h5{
+	color:rgb(66, 103, 178);
+}
+
+.margin30px {
+	margin-top: 30px;
+	margin-bottom : 30px;
+}
+
+.margin50px {
+	margin-top: 50px;
+	margin-bottom : 50px;
+}
+
+
